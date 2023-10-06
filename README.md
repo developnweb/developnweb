@@ -3,14 +3,14 @@ Bienvenido a developn.net, una plataforma digital dedicada al avance de la Progr
 Únete a nuestra comunidad para interactuar con profesionales de ideas afines y mantenerte actualizado sobre las últimas tendencias e innovaciones.
 
 Búscanos en redes sociales y plataformas de contenido:
-Linkedin: https://www.linkedin.com/company/developn-net
-Instagram: https://www.instagram.com/developnweb_es/
-X: https://twitter.com/developnweb_es
-Mastodon: https://mastodon.social/@developnweb_es
-Canal Telegram: https://t.me/developn_channel_es
-Facebook: https://www.facebook.com/developnnet-ES-108778748059083
-Youtube: https://youtube.com/@developn
-Github: https://github.com/developnweb
+- Linkedin: https://www.linkedin.com/company/developn-net  
+- Instagram: https://www.instagram.com/developnweb_es/  
+- X: https://twitter.com/developnweb_es  
+- Mastodon: https://mastodon.social/@developnweb_es  
+- Canal Telegram: https://t.me/developn_channel_es  
+- Facebook: https://www.facebook.com/developnnet-ES-108778748059083  
+- Youtube: https://youtube.com/@developn  
+- Github: https://github.com/developnweb  
 
-Y por supuesto en nuestra web:
+Y por supuesto en nuestra web:  
 https://www.developn.net
