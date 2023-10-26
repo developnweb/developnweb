@@ -13,4 +13,4 @@ Búscanos en redes sociales y plataformas de contenido:
 - Github: https://github.com/developnweb  
 
 Y por supuesto en nuestra web:  
-https://www.developn.net
+https://www.developn.net/es/land
